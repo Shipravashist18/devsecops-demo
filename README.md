@@ -46,8 +46,8 @@ This project demonstrates a **DevSecOps pipeline** that integrates application d
 
 1️⃣ Clone Repository 
 
-git clone https://github.com/shipravashist/devsecops-demo.git
-cd <your-repo>
+git clone https://github.com/Shipravashist18/devsecops-demo.git
+cd devsecops-demo
 
 2️⃣ Build & Push Docker Image
 docker build -t shipravashist/devsecops-demo:v1 .
